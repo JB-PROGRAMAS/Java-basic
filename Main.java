@@ -233,9 +233,9 @@ public class Main {
 
         System.out.println("Enter number of Rows: ");
         rows = jay.nextInt();
-        System.out.println("Enter number of Columnsss: ");
+        System.out.println("Enter number of Columns: ");
         columns = jay.nextInt();
-        System.out.println("Enter the Symbol to useeee: ");
+        System.out.println("Enter the Symbol to use: ");
         symbol = jay.next();
 
         for (int i = 1; i <= rows; i++) {
