@@ -218,7 +218,7 @@ public class Main {
 
 }*/
 
-//ARRAYS 
+// NESTED LOOP
 
 import java.util.Scanner;
 
